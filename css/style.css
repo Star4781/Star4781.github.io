@@ -1,0 +1,28 @@
+h1, h2, h3 {
+    font-family: 'Mogra', cursive;
+}
+h1 {
+text-align:center;
+}
+
+body {
+  /* fallback */
+  background-color: #1a82f7;
+  background-repeat: repeat-x;
+
+  /* Safari 4-5, Chrome 1-9 */
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1a82f7), to(#2F2727));
+
+  /* Safari 5.1, Chrome 10+ */
+  background: -webkit-linear-gradient(top, #ff00ff, #00ffff);
+
+  /* Firefox 3.6+ */
+  background: -moz-linear-gradient(top,  #ff00ff, #00ffff
+
+  /* IE 10 */
+  background: -ms-linear-gradient(top,  #ff00ff, #00ffff
+
+  /* Opera 11.10+ */
+  background: -o-linear-gradient(top,  #ff00ff, #00ffff
+}
+
